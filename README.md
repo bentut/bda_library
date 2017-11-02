@@ -4,15 +4,15 @@
 -	Excel
 
 -	Anaconda 
-  -https://www.anaconda.com/download/
+  - https://www.anaconda.com/download/
 
 -	R Package 
-  -https://www.r-project.org/
-  -https://www.rstudio.com/products/rstudio/download/#download
+  - https://www.r-project.org/
+  - https://www.rstudio.com/products/rstudio/download/#download
 
 -	Tableau
-  -https://public.tableau.com/en-us/s/download/
+  - https://public.tableau.com/en-us/s/download/
 
 -	GitHub 
-  -https://desktop.github.com/
+  - https://desktop.github.com/
 
